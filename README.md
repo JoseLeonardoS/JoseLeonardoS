@@ -1,4 +1,6 @@
-<h2 align="left">👋 Olá, eu sou o José</h2>
+<h1 align="left">🧑🏽‍💻 José Leonardo</h1>
+
+**`Desenvolvedor FullStack`**
 
 ###
 
